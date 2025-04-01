@@ -11,22 +11,27 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a keen int
 
 ## 📊 GitHub Stats & Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NotTheRealWallyx&theme=radical)
-
+![GitHub Streak: A streak tracker for contributions](https://github-readme-streak-stats.herokuapp.com/?user=NotTheRealWallyx&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotTheRealWallyx&layout=compact&theme=radical)
 
-## 🤖 Code::Stats XP
+## 🤖 Code::Stats
 
-![Code::Stats XP](https://img.shields.io/badge/dynamic/json?color=informational&label=Code::Stats%20XP&query=total_xp&url=https://codestats.net/api/users/Wallyx&suffix=%20XP)
+![Code::Stats](https://img.shields.io/badge/dynamic/json?color=informational&label=Code::Stats&query=total_xp&url=https://codestats.net/api/users/Wallyx&suffix=%20XP)
+
+[Code::Stats profile](https://codestats.net/users/Wallyx)
 
 ## 🎭 The Story Behind "NotTheRealWallyx"
 
-Ever wondered where my username and profile pic come from? It’s a mix of two iconic characters:
+Ever wondered where my username and profile pic come from? It’s a mix of two characters:
 
 - 🕵️ **Wally** (a.k.a. Waldo) from _Where’s Waldo?_ – Always hiding, just like some of my best code. 😆
-- 🎤 **2D** from _Gorillaz_ – The lead singer of the virtual band, bringing a bit of musical chaos into the mix.
+- 🎤 **2D** from _Gorillaz_ – The lead singer of the iconic band, adding a touch of musical chaos to the mix.
 
 So yeah, if you’re looking for me… good luck finding me. 😜
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mikel-sanchezmart)
 
 ---
 
