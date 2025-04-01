@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a keen int
 
 ## 📊 GitHub Stats & Activity
 
-![GitHub Streak: A streak tracker for contributions](https://github-readme-streak-stats.herokuapp.com/?user=NotTheRealWallyx&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NotTheRealWallyx&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotTheRealWallyx&layout=compact&theme=radical)
 
 ## 🤖 Code::Stats
