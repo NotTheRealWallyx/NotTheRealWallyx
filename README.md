@@ -11,8 +11,12 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a keen int
 
 ## 📊 GitHub Stats & Activity
 
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotTheRealWallyx&layout=compact&theme=radical&card_width=445)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NotTheRealWallyx&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotTheRealWallyx&layout=compact&theme=radical)
+
+</div>
 
 ## 🤖 Code::Stats
 
@@ -31,7 +35,7 @@ So yeah, if you’re looking for me… good luck finding me. 😜
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mikel-sanchezmart)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mikel-sanchezmart) [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:nottherealwallyx@gmail.com)
 
 ---
 
