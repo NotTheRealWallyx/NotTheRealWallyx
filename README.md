@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a keen int
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotTheRealWallyx&layout=compact&theme=radical&card_width=445)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NotTheRealWallyx&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=NotTheRealWallyx&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
