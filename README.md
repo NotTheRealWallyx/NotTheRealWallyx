@@ -19,6 +19,12 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a keen int
 
 ## 🤖 Code::Stats
 
+<div align="center">
+
+![Code::Stats](https://codestats-badge-ehrxwm47k-nottherealwallyxs-projects.vercel.app/api/code-stats?user=Wallyx)
+
+</div>
+
 ![Code::Stats](https://img.shields.io/badge/dynamic/json?color=informational&label=Code::Stats&query=total_xp&url=https://codestats.net/api/users/Wallyx&suffix=%20XP)
 
 [Code::Stats profile](https://codestats.net/users/Wallyx)
