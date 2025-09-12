@@ -33,10 +33,8 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a keen int
 
 Ever wondered where my username and profile pic come from? It’s a mix of two characters:
 
-- 🕵️ **Wally** (a.k.a. Waldo) from _Where’s Waldo?_ – Always hiding, just like some of my best code. 😆
-- 🎤 **2D** from _Gorillaz_ – The lead singer of the iconic band, adding a touch of musical chaos to the mix.
-
-So yeah, if you’re looking for me… good luck finding me. 😜
+- 🕵️ **Wally** (a.k.a. Waldo) from _Where’s Waldo?_
+- 🎤 **2D** from _Gorillaz_
 
 ## Connect With Me
 
