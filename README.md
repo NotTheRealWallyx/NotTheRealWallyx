@@ -38,7 +38,7 @@ Ever wondered where my username and profile pic come from? It’s a mix of two c
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mikel-sanchezmart) [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:nottherealwallyx@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mikel-sanchezmart) [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:notrealwallyx@proton.me)
 
 ---
 
