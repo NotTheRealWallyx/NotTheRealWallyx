@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a keen int
 
 <div align="center">
 
-![Code::Stats](https://codestats-badge-ehrxwm47k-nottherealwallyxs-projects.vercel.app/api/code-stats?user=Wallyx)
+![Code::Stats](https://codestats-badge.vercel.app/api/code-stats?user=Wallyx)
 
 </div>
 
@@ -38,7 +38,7 @@ Ever wondered where my username and profile pic come from? It’s a mix of two c
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mikel-sanchezmart) [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:notrealwallyx@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mikel-sanchezmart) [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:wallyx@wallyx.dev)
 
 ---
 
