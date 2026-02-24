@@ -9,19 +9,21 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a keen int
 - 🏗 **Backend Development** – Databases, APIs, and system architecture.
 - ⚡ **Automation & Scripting** – Making things faster, smarter, and easier.
 
-## 📊 GitHub Stats & Activity
+<!-- ## 📊 GitHub Stats & Activity
 
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotTheRealWallyx&layout=compact&theme=radical&card_width=445)
 
-</div>
+</div> -->
 
 ## 🤖 Code::Stats
 
 <div align="center">
 
-![Code::Stats](https://codestats-badge.vercel.app/api/code-stats?user=Wallyx)
+![Code::Stats - Badge](https://codestats-badge.vercel.app/api/code-stats/badge?user=Wallyx)
+
+![Code::Stats - Activity](https://codestats-badge.vercel.app/api/code-stats/activity?user=Wallyx)
 
 </div>
 
